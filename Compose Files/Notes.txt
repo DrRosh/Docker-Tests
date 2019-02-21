@@ -1,0 +1,5 @@
+Image links to NovaFlash docker repo
+CPU limit is 0.1 but 10 replicas - probably a bad idea!
+3 services - Web, Visualiser and Redis.
+
+Redis is a local storage setup.
